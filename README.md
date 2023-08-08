@@ -2,7 +2,8 @@
 This is Alarm Clock Application
 ![alarmRang](https://github.com/sargam-thakare/AlarmClock/assets/76519988/c8c627e4-3cbd-4665-b64f-69aa0d54fec2)
 There are four main functionality in his app
-1 To display the current time
+1 To display the current time![home](https://github.com/sargam-thakare/AlarmClock/assets/76519988/31199661-5f60-4902-8816-ae2a702a3ff8)
+
 2.User should be able to create the new alarm
 3. All the created alarm should be listed here
 4. User should be able to delete the alarm
