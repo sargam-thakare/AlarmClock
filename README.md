@@ -1,8 +1,9 @@
 # AlarmClock
 This is Alarm Clock Application
-![alarmRang](https://github.com/sargam-thakare/AlarmClock/assets/76519988/c8c627e4-3cbd-4665-b64f-69aa0d54fec2)
+![home](https://github.com/sargam-thakare/AlarmClock/assets/76519988/31199661-5f60-4902-8816-ae2a702a3ff8)
+
 There are four main functionality in his app
-1 To display the current time![home](https://github.com/sargam-thakare/AlarmClock/assets/76519988/31199661-5f60-4902-8816-ae2a702a3ff8)
+1 To display the current time
 
 2.User should be able to create the new alarm
 3. All the created alarm should be listed here
@@ -23,6 +24,7 @@ and this will add that list in DOM with the help of createElement and append chi
 4.Along with this setinterval timer for current time there is one more functionality this setinterval is taking care of checking any of the alarm isndie
 alarm array with the current time it ccompares every itme with current time and if found it will remove that item from array with the help of index 
 and from the dom with the help of remove child function and show a popup that alarm is ringing
+![alarmRang](https://github.com/sargam-thakare/AlarmClock/assets/76519988/c8c627e4-3cbd-4665-b64f-69aa0d54fec2)
 
 
 
