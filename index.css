@@ -1,0 +1,90 @@
+ body {
+   margin: 0;
+   background: linear-gradient(to right, rgb(238, 205, 163), rgb(239, 98, 159));
+ }
+
+ .header {
+   text-align: center;
+ }
+
+ .parent {
+   margin: auto;
+   width: 50%;
+
+   padding-top: 100px;
+
+ }
+
+ .clock {
+   margin: auto;
+   border: 2px solid grey;
+   border-radius: 10px;
+   background-color: white;
+   width: 500px;
+   display: flex;
+   flex-direction: column;
+   min-height: 250px;
+ }
+
+ #currentTimeDisplay {
+   font-size: 20px;
+   font-weight: 600;
+   border: 1px solid black;
+   border-radius: 6px;
+   padding: 5px;
+ }
+
+ .currentTime {
+   padding-top: 40px;
+   padding-left: auto;
+   /* padding-left: 30%; */
+   margin: 0 auto;
+ }
+
+ .alarms {
+   padding-top: 30px;
+   padding-left: 15%;
+
+ }
+
+ .listofalarms {
+   width: 85%;
+   padding-left: 15%;
+ }
+
+ .listAlarm {
+   display: flex;
+   justify-content: space-between;
+   padding: 5px 0px;
+   border-bottom: 1px solid grey;
+
+ }
+
+ #listofalarms {
+   padding: 0px;
+   list-style-type: none;
+ }
+
+ #hourinput, #secondinput, #minuteinput {
+   border: 2px solid grey;
+   border-radius: 6px;
+   height: 30px;
+   width: 60px;
+ }
+
+ #ampminput {
+   border: 2px solid grey;
+   border-radius: 6px;
+   height: 30px;
+   width: 60px;
+ }
+
+ .alarmIcon{
+  padding-right: 10px;
+  font-size:24px;
+ }
+
+ .alarmParentDiv{
+  display: flex;
+  align-items: end;
+ }
