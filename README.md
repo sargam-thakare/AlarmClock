@@ -1,5 +1,6 @@
 # AlarmClock
 This is Alarm Clock Application
+![alarmRang](https://github.com/sargam-thakare/AlarmClock/assets/76519988/c8c627e4-3cbd-4665-b64f-69aa0d54fec2)
 There are four main functionality in his app
 1 To display the current time
 2.User should be able to create the new alarm
@@ -14,7 +15,8 @@ should be rmeove from the list
 2. for user to create alarm i have created this input with type number with min and max values for hour 0 to 12 , 0-60 from min and Second and HTML select for am/pm vaues in dropdown
 when user click on set alarm button there is onlick listener which will  take all the values from this input and create one array with 2 values 
 1. is the time
-2. second is the listitem which need to be added in list also one delete button is added on click of which it will remove the respective listitem from list
+2. second is the l
+istitem which need to be added in list also one delete button is added on click of which it will remove the respective listitem from list
 and this will add that list in DOM with the help of createElement and append child methods .so we are able to see this list there
 
 4.Along with this setinterval timer for current time there is one more functionality this setinterval is taking care of checking any of the alarm isndie
